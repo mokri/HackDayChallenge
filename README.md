@@ -23,7 +23,7 @@ On the next page, you can press on **Create pull request** button to send your f
 Your file is now submitted. The results will be announced by the jury after correction.
 Thank you for your participation.
 
-<center><img src="img/autobot13.png" width="40%" /></center>
+<center><img src="img/autobot13.png" width="30%" /></center>
 
 
                                                                                Autobot13 team.
