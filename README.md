@@ -1,13 +1,14 @@
-# HackDay Exercise
-## Welcome to the HackDay Programming Exercise !!
-This is a service that allows participants of the _Local Hack Day_ of _Tlemcen_ to submit their solutions for the given exercise. The organizer of the event gives the participants an URL which contains a programming exercise. This URL leads to a page like this: 
+# HackDay Challenge
+## Welcome to the HackDay Programming Challenge !!
+This is a service that allows participants of the _Local Hack Day_ of _Tlemcen_ to submit their solutions for the given exercise. The organizer of the event gives the participants an URL which leads to this page. In this page, you will find a programming exercise in the file **Programming_Challenge.pdf**.
 <center><img src="img/image1.png" width="100%" /></center>
-This page represents a repository containing our exercise and your proposed solution.
+
+This page represents a repository containing our exercise,it will also contain your proposed solution after you submit it.
 <br>
 ## How to use this repository ?
 First,  you will want to fork the repository, you can do this by pressing the **Fork button** on the top of this page. Now you have a copy of this repository on your account.
 
-You can now press on the **Create new file** button to add a file (c class) which contains your program to the repository. 
+You can now press on the **Create new file** button to add a file which contains your program to the repository. 
 Once the file is open you will have a page like this:
 <center><img src="img/image2.png" width="100%" /></center>
 
